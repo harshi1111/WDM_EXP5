@@ -1,5 +1,6 @@
+### NAME - HARSHITHA V
+### REG NO - 212223230074
 ### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
@@ -128,7 +129,15 @@ if __name__ == "__main__":
 ```
 ### Output:
 
-<img width="1044" height="379" alt="image" src="https://github.com/user-attachments/assets/5b8ca86f-aa4a-4eae-b9f2-35f5a7df87ba" />
+### Query 1
+<img width="1443" height="460" alt="image" src="https://github.com/user-attachments/assets/3ec6c1c9-d9ea-41d8-92dd-f07974387c47" />
+
+### Query 2
+<img width="1453" height="463" alt="image" src="https://github.com/user-attachments/assets/d284db9d-55b1-4e9f-92fa-c0550b4df512" />
+
+### Query 3
+<img width="1510" height="474" alt="image" src="https://github.com/user-attachments/assets/5c91f716-4fc5-42a9-999d-15a363f6abd6" />
+
 
 ### Result:
 
